@@ -7,6 +7,6 @@ This repository contains the "Solar Energy Output Forecaster," a Streamlit-based
 
 The project was developed as part of a personal learning journey in machine learning and AI, focusing on renewable energy applications. It includes a virtual environment setup (`venv`) with dependencies managed via `requirements.txt`, ensuring reproducibility. The code is structured in `app.py` for the Streamlit interface and `solar_forecaster.py` for the ANN logic, with Git LFS support for large dataset files.
 
-Check the live demo at [insert Streamlit URL once deployed] and explore the codebase to see implementation details, including caching fixes and data preprocessing. Contributions and feedback are welcome!
+Check the live demo at [(https://solar-energy-forecaster-sphakoe.streamlit.app/)] and explore the codebase to see implementation details, including caching fixes and data preprocessing. Contributions and feedback are welcome!
 
 Technologies: Python, Streamlit, TensorFlow, Pandas, NumPy, Matplotlib, Geopy, Scikit-learn.
