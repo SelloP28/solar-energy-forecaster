@@ -5,3 +5,4 @@ numpy
 matplotlib
 geopy
 scikit-learn
+tensorflow==2.20.0
